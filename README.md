@@ -1,2 +1,2 @@
 # RosalindProject
-Solving problems on Rosalind.info
+Solving problems on Rosalind.info hello world
